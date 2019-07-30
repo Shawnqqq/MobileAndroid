@@ -52,6 +52,8 @@ const PAGE={
             case '提交成功' :
                 $("#s1-tips").css('display','none')
                 $("#s1-input").attr('class','s1-input');
+                $('#section-1').css('display','none');
+                $('#section-success').css('display','block')
         }
     }
 }

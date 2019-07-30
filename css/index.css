@@ -91,6 +91,54 @@
   box-shadow: 0 0.015625rem 0.203125rem 0 rgba(0, 0, 0, 0.66);
   outline: none;
 }
+.wrap .section-1-success {
+  height: 10.6875rem;
+  background-image: url(../image/s1-success-bp.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+.wrap .section-1-success .s1-logo {
+  width: 3.0625rem;
+  height: 1.3125rem;
+  margin-left: 0.34375rem;
+  margin-bottom: 0.46875rem;
+}
+.wrap .section-1-success .s1-describe {
+  width: 5.84375rem;
+  height: 1.03125rem;
+  margin: 0 auto 0.46875rem auto;
+  font-size: 0.375rem;
+  color: #ffffff;
+  line-height: 1.03125rem;
+  text-align: center;
+  border-top: 0.015625rem solid #ffffff;
+  border-bottom: 0.015625rem solid #ffffff;
+}
+.wrap .section-1-success .s1-image {
+  display: block;
+  width: 1.5625rem;
+  height: 1.5625rem;
+  margin: 0 auto;
+}
+.wrap .section-1-success .s1-title {
+  margin: 0.3125rem 0;
+  font-size: 0.78125rem;
+  color: #ffffff;
+  text-align: center;
+}
+.wrap .section-1-success .s1-btn {
+  width: 7.8125rem;
+  height: 1.5625rem;
+  background-color: #f17b19;
+  margin: 0.625rem auto;
+  font-size: 0.78125rem;
+  text-align: center;
+  line-height: 1.5625rem;
+  border-radius: 0.3125rem;
+  box-shadow: 0 0 0.078125rem #747c01 c7;
+}
 .wrap .section-2 {
   height: 8.859375rem;
   background-image: url(../image/section-2-bg.png);
